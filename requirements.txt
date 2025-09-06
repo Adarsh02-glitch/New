@@ -1,0 +1,11 @@
+## I am using Jupyter Notebook IDE ##
+Note: You can use other Ide's as well like: VS Code, Colab etc.
+
+## you need to install
+-pandas
+-numpy
+-scikit-learn
+-scikit-surprise
+-matplotlib
+-scipy
+-sklearn
